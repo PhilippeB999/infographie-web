@@ -43,6 +43,8 @@ const COMPETENCIES = [
  {
   "id": "info01",
   "order": 1,
+  "code": "465011",
+  "hours": 15,
   "title_fr": "Métier et formation",
   "title_en": "Trade and Training",
   "icon": "🧭",
@@ -241,6 +243,8 @@ const COMPETENCIES = [
  {
   "id": "info02",
   "order": 2,
+  "code": "465024",
+  "hours": 60,
   "title_fr": "Gestion d'un environnement informatique",
   "title_en": "Managing a Computer Environment",
   "icon": "💻",
@@ -439,6 +443,8 @@ const COMPETENCIES = [
  {
   "id": "info03",
   "order": 3,
+  "code": "465037",
+  "hours": 105,
   "title_fr": "Images vectorielles",
   "title_en": "Vector Images",
   "icon": "🔷",
@@ -637,6 +643,8 @@ const COMPETENCIES = [
  {
   "id": "info04",
   "order": 4,
+  "code": "465046",
+  "hours": 90,
   "title_fr": "Images matricielles",
   "title_en": "Raster Images",
   "icon": "🖼️",
@@ -835,6 +843,8 @@ const COMPETENCIES = [
  {
   "id": "info05",
   "order": 5,
+  "code": "465056",
+  "hours": 90,
   "title_fr": "Exigences et étapes de production en communication graphique",
   "title_en": "Graphic Communication Production Requirements and Steps",
   "icon": "📐",
@@ -1033,6 +1043,8 @@ const COMPETENCIES = [
  {
   "id": "info06",
   "order": 6,
+  "code": "465066",
+  "hours": 90,
   "title_fr": "Acquisition d'images",
   "title_en": "Image Acquisition",
   "icon": "📷",
@@ -1231,6 +1243,8 @@ const COMPETENCIES = [
  {
   "id": "info07",
   "order": 7,
+  "code": "465074",
+  "hours": 60,
   "title_fr": "Gestion de profils colorimétriques",
   "title_en": "Colour Profile Management",
   "icon": "🎨",
@@ -1429,6 +1443,8 @@ const COMPETENCIES = [
  {
   "id": "info08",
   "order": 8,
+  "code": "465086",
+  "hours": 90,
   "title_fr": "Images composites pour impressions normalisées",
   "title_en": "Composite Images for Standardized Print",
   "icon": "🖨️",
@@ -1627,6 +1643,8 @@ const COMPETENCIES = [
  {
   "id": "info09",
   "order": 9,
+  "code": "465096",
+  "hours": 90,
   "title_fr": "Images composites pour interfaces visuelles",
   "title_en": "Composite Images for Visual Interfaces",
   "icon": "🖥️",
@@ -1825,6 +1843,8 @@ const COMPETENCIES = [
  {
   "id": "info10",
   "order": 10,
+  "code": "465104",
+  "hours": 60,
   "title_fr": "Outils de révision de textes en français",
   "title_en": "French Text Revision Tools",
   "icon": "🔍",
@@ -2023,6 +2043,8 @@ const COMPETENCIES = [
  {
   "id": "info11",
   "order": 11,
+  "code": "465116",
+  "hours": 90,
   "title_fr": "Éléments typographiques",
   "title_en": "Typographic Elements",
   "icon": "🔤",
@@ -2221,6 +2243,8 @@ const COMPETENCIES = [
  {
   "id": "info12",
   "order": 12,
+  "code": "465127",
+  "hours": 105,
   "title_fr": "Mises en pages simples pour imprimés",
   "title_en": "Simple Layouts for Print",
   "icon": "📄",
@@ -2419,6 +2443,8 @@ const COMPETENCIES = [
  {
   "id": "info13",
   "order": 13,
+  "code": "465137",
+  "hours": 105,
   "title_fr": "Mises en pages simples pour interfaces visuelles",
   "title_en": "Simple Layouts for Visual Interfaces",
   "icon": "📱",
@@ -2617,6 +2643,8 @@ const COMPETENCIES = [
  {
   "id": "info14",
   "order": 14,
+  "code": "465146",
+  "hours": 90,
   "title_fr": "Gabarits de mise en pages simples pour interfaces visuelles",
   "title_en": "Simple Layout Templates for Visual Interfaces",
   "icon": "🧩",
@@ -2815,6 +2843,8 @@ const COMPETENCIES = [
  {
   "id": "info15",
   "order": 15,
+  "code": "465156",
+  "hours": 90,
   "title_fr": "Gabarits de mise en pages pour imprimés",
   "title_en": "Layout Templates for Print",
   "icon": "🗂️",
@@ -3013,6 +3043,8 @@ const COMPETENCIES = [
  {
   "id": "info16",
   "order": 16,
+  "code": "465164",
+  "hours": 60,
   "title_fr": "Imposition et finition",
   "title_en": "Imposition and Finishing",
   "icon": "✂️",
@@ -3211,6 +3243,8 @@ const COMPETENCIES = [
  {
   "id": "info17",
   "order": 17,
+  "code": "465177",
+  "hours": 105,
   "title_fr": "Mises en pages complexes pour imprimés",
   "title_en": "Complex Layouts for Print",
   "icon": "📰",
@@ -3409,6 +3443,8 @@ const COMPETENCIES = [
  {
   "id": "info18",
   "order": 18,
+  "code": "465184",
+  "hours": 60,
   "title_fr": "Rastérisation de documents",
   "title_en": "Document Rasterization",
   "icon": "🔲",
@@ -3607,6 +3643,8 @@ const COMPETENCIES = [
  {
   "id": "info19",
   "order": 19,
+  "code": "465194",
+  "hours": 60,
   "title_fr": "Préparation de documents pour impressions numériques",
   "title_en": "Document Preparation for Digital Printing",
   "icon": "📤",
@@ -3805,6 +3843,8 @@ const COMPETENCIES = [
  {
   "id": "info20",
   "order": 20,
+  "code": "465205",
+  "hours": 75,
   "title_fr": "Préparation de documents pour impressions offset normalisées",
   "title_en": "Document Preparation for Standardized Offset Printing",
   "icon": "🏭",
@@ -4003,6 +4043,8 @@ const COMPETENCIES = [
  {
   "id": "info21",
   "order": 21,
+  "code": "465216",
+  "hours": 90,
   "title_fr": "Gestion d'une micro-entreprise en communication graphique",
   "title_en": "Managing a Graphic Communication Micro-business",
   "icon": "💼",
@@ -4201,6 +4243,8 @@ const COMPETENCIES = [
  {
   "id": "info22",
   "order": 22,
+  "code": "465228",
+  "hours": 120,
   "title_fr": "Intégration au milieu de travail",
   "title_en": "Workplace Integration",
   "icon": "🎓",
